@@ -11,6 +11,7 @@ To examine how education spending impacts teacher compensation across U.S. state
 
 ---
 ## Repository Structure
+```
 Teacher_Salary_Portfolio/
 ├─ Dashboard/
 │ └─ Dashboard.pdf
@@ -34,6 +35,7 @@ Teacher_Salary_Portfolio/
 │ ├─ teacher_salaries_by_state.csv
 │ └─ yearly_salary_spending_trends.csv
 └─ README.md
+```
 ---
 
 ## Data Sources
